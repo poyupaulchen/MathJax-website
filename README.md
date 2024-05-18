@@ -25,3 +25,4 @@ To use it, you include a liquid tag in the page, e.g.,
 ```
 
 Optionally, you can also add `url="//lol.cats/are"` which will wrap the resulting `img` in an `a`.
+$x+y$
